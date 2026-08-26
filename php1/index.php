@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <h1>PHP Output No. 1</h1>
+    <h1>PHP Output NO. 1</h1>
     
     <fieldset>
         <legend>This form uses GET request</legend>
@@ -87,7 +87,7 @@
                 </td>
             </tr>
             <tr>
-                <td>Middle Name</td>
+                <td>Middle Name </td>
                 <td>
                     <input type="text" name="mname" placeholder="Enter Middle Name" required />
                 </td>
